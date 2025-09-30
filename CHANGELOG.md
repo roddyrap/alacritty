@@ -14,6 +14,10 @@ Notable changes to the `alacritty_terminal` crate are documented in its
 
 - Fixed invalid logo SVG attributes
 
+### Added
+
+- Substitution operation on regex terminal hints brefore command or action invocation
+
 ### Changed
 
 - Don't highlight hints on hover when the mouse cursor is hidden
